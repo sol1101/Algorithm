@@ -12,15 +12,9 @@ public class Q_10952 {
 			int B = sc.nextInt();
 			if(A==0 && B == 0) {
 				break;
-			}
-			
+			}			
 			System.out.println(A+B);
-			
-			
 		}
 		
-		
-
 	}
-
 }
