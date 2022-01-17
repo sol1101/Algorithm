@@ -37,7 +37,8 @@ public class Q_2056 {
 					System.out.println("#" + test_case +" "+ "-1");
 					break;
 				}
-				System.out.printf("#%d %04d/%02d/%02d\n", test_case, y, m, d);
+
+				System.out.printf("#%d %02d/%02d/%02d\n", test_case, y, m, d);
 			}
 
 		}
