@@ -65,6 +65,5 @@ import java.io.OutputStreamWriter;
 
 ***
 
-[참고1 https://blog.naver.com/masichyun77/222376782534](https://blog.naver.com/masichyun77/222376782534)
-
-[참고2 https://blog.naver.com/masichyun77/222376782534](https://blog.naver.com/lyg0108/222251927061)
+참고 : [https://blog.naver.com/masichyun77/222376782534](https://blog.naver.com/masichyun77/222376782534)
+[https://blog.naver.com/masichyun77/222376782534](https://blog.naver.com/lyg0108/222251927061)
