@@ -1,11 +1,11 @@
 # ✔Scanner와 BufferedReader
 
-버퍼 : 데이터를 전송할때 일시적으로 그 데이터를 보관하는 메모리 영역
+버퍼 : 데이터를 전송할때 일시적으로 그 데이터를 보관하는 메모리 영역<br>
 짐을 옮길때 물건을 하나씩 옮기는게 Scanner, 박스에 담아서 옮기는게 buffer라고 비유
 
 📌차이
 ---
-BufferedReader 다음에 나온 것이 Scanner 클래스이며 Scanner의 속도가 훨씬 느리다.
+BufferedReader 다음에 나온 것이 Scanner 클래스이며 Scanner의 속도가 훨씬 느리다.<br>
 Scanner가 최신이긴하나 둘의 차이점이 명확히 있으므로 용도에 맞게 사용하는 것이 바람직하다.
 
 1. Scanner의 버퍼 크기는 1024 chars, 반면 BufferReader의 버퍼 크기는 8192 chars이다.
