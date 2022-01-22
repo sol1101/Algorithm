@@ -29,7 +29,7 @@ ArrayList는 저장용량이 default값이 10으로 설정되어있다.<br>
 <br>
 
 - Vector<br>
-Vector클래스는 동기화된 메서드로 구성되어 있다.<br>
+Vector클래스는 ArrayList와 동일한 내부구조를 가지고 있으나 동기화된 메서드로 구성되어 있다.<br>
 따라서 멀티스레드 환경에서 동시에 이 메서드에 접근할 수 없도록 구성되어 있다.(Thread safe)<br>
 <br>
 
