@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Q_5622 {
 
 	public static void main(String[] args) {
+		//´ÙÀÌ¾ó
 		Scanner sc = new Scanner(System.in);
 		
 		String s = sc.next().toUpperCase();
