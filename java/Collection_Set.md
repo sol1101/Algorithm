@@ -57,6 +57,7 @@ TreeSet은 이진탐색트리 중에서도 성능을 향상시킨 레드-블랙 
 데이터가 들어올 때 값이 편향되게 들어올 경우 한쪽으로 크게 치우쳐진 트리가 되어 굉장히 비효율적인 퍼포먼스를 내기 때문에 이를 보완하기 위해 레드 블랙 트리가 등장했다.<br>
 레드-블랙 트리는 부모노드보다 작은 값을 가지는 노드는 왼쪽, 큰 값을 가지는 노드는 오른쪽 자식으로 배치하여 데이터의 추가나 삭제시 트리의 균형을 맞춰준다.<br>
 <br>
+
 ```java
 TreeSet<Integer> set1 = new TreeSet<Integer>();//TreeSet생성
 TreeSet<Integer> set2 = new TreeSet<>();//new에서 타입 파라미터 생략가능
@@ -77,6 +78,7 @@ while(iter.hasNext()) {//값이 있으면 true 없으면 false
     System.out.println(iter.next());
 }
 ```
+<br>
 
 
 
