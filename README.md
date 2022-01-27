@@ -13,3 +13,7 @@ Algorithm
 [BAEKJOON](https://github.com/sol1101/TIL/tree/master/src/BAEKJOON)<br>
 [SWEA](https://github.com/sol1101/TIL/tree/master/src/SWEA)<br>
 [Programmers](https://github.com/sol1101/TIL/tree/master/src/Programmers)<br>
+
+cs
+---
+[절차지향, 객체지향.md](https://github.com/sol1101/TIL/blob/9cee493793905e2596c52136a64452cae4ebeca2/cs/%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5,%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
