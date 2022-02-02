@@ -7,6 +7,7 @@ java
 [String, StringBuffer, StringBuilder.md](https://github.com/sol1101/TIL/blob/6726c499a5e32c2c6727872c56b7d4f593603e89/java/String,%20StringBuffer,%20StringBuilder.md)<br>
 [Collection_list.md](https://github.com/sol1101/TIL/blob/ba4218a9c94dbc85e55d7e7d5b2fb37613c72ced/java/Collection_list.md)<br>
 [Collection_Set.md](https://github.com/sol1101/TIL/blob/094058f65ec9d69b0dd1777423b293c0218a4ba2/java/Collection_Set.md)<br>
+[Collection_Map.md](https://github.com/sol1101/TIL/blob/bbf2f48bffd88139b058180d9bc7ef21aa71bda1/java/Collection_Map.md)/<br>
 
 Algorithm
 ---
