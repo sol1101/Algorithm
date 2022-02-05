@@ -22,7 +22,6 @@ public class Q_2581 {
 				}
 			
 			if(check == true) {
-				System.out.println(i);
 				sum+=i;
 				if(min==N) min = i;
 			}
