@@ -21,7 +21,11 @@ import java.util.ArrayList;
 ArrayList<String> AL = new ArrayList<String>(); //ArrayList 선언
 
 AL.add("Hello");AL.add("World"); //add
+
+String s = AL.get(0); //리스트의 값 가져오기
+AL.set(0,"HelloHello"); //0번째 인덱스의 값 수정
 AL.remove(0);AL.remove("World"); //remove
+AL.clear(); //모든 인덱스 제거
 ```
 ArrayList는 저장용량이 default값이 10으로 설정되어있다.<br>
 객체를 추가하여 저장용량이 초과하면 자동으로 값이 증가한다<br>
